@@ -18,8 +18,8 @@
     <img alt="NodeJs" src="https://img.shields.io/badge/Node-purple">&nbsp;&nbsp;&nbsp;
   </a>
 
-  <a href="#" rel="nofollow">
-    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-Language-purple">
+  <a href="https://www.typescriptlang.org/" rel="nofollow">
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-purple">&nbsp;&nbsp;&nbsp;
   </a>
 
   <a href="https://www.apollographql.com/docs/apollo-server/" rel="nofollow">
