@@ -1,7 +1,7 @@
 <div align="center">
   <h1><a id="user-content--crud" class="anchor" aria-hidden="true" href="#-crud">CRUD</h1><br/>
 
-  <p><a href="#-CRUD"><img src="https://github.com/th14g0d3v/identifier/raw/main/backend/public/crud.png" alt="alt text" title="image" style="max-width:100%;"></a></p>
+  <p><a href="#-CRUD"><img src="https://github.com/th14g0d3v/crud/raw/main/backend/public/crud.png" alt="alt text" title="image" style="max-width:100%;"></a></p>
 </div><hr/><br/>
 
 <div align="center">
